@@ -6,6 +6,7 @@ When I first started learning web development, I was able to get text and images
 Through much trial and error, I eventually started putting the pieces of the game development puzzle together. I spent MONTHS studying and analyzing other developers canvas pieces, while also taking Khan Academy math courses to truly understand how math and programming work in tandem together to produce a fully functional game. I realized that game development wasn't really that hard.
 
 # Basic Game Checklist:
+* Configure the canvas
 * Create a player
 * Shoot projectiles
 * Create enemies
